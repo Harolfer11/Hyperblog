@@ -1,0 +1,31 @@
+body{
+
+    color: green;
+
+    text-align: center;
+
+    font-family: "Tahoma";
+
+}
+
+#container
+
+{
+    text-align: left;
+    padding: 1em;
+    width: 70%;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+
+}
+
+#cabecera
+
+{
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+
+}
