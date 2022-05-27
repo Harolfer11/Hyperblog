@@ -18,3 +18,14 @@ body{
     margin: 0 auto;
 
 }
+
+#cabecera
+
+{
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+
+}
