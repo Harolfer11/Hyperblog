@@ -1,7 +1,20 @@
 body{
 
-    color: red;
+    color: blue;
 
     text-align: center;
+
+    font-family: "Arial";
+
+}
+
+#container
+
+{
+    text-align: left;
+    padding: 1em;
+    width: 70%;
+    border: 1px solid #ddd;
+    margin: 0 auto;
 
 }
