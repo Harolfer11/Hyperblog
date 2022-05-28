@@ -6,4 +6,6 @@ nacio en bogota DC
 
 master 1
 
+master 2
+
 Es el CEO de DAH tecnologies
