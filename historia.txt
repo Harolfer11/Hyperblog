@@ -4,4 +4,6 @@ tiene 17 años
 
 nacio en bogota DC
 
+master 1
+
 Es el CEO de DAH tecnologies
